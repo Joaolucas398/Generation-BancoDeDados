@@ -1,1 +1,1 @@
-create database ecommerce
+create database ecommerce;
