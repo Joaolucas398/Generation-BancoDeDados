@@ -1,7 +1,7 @@
 
 /*Crianto o banco de dados*/
 
-create database quintanda_gen;
+create database quitanda_gen;
 
 /*Crianto a tabela*/
 
