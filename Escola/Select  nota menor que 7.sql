@@ -1,1 +1,0 @@
-select * from estudantes nota where nota < 7; 
