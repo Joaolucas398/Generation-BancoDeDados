@@ -1,1 +1,0 @@
-select * from produtos where preco < 50;
