@@ -1,0 +1,1 @@
+select * from tb_pizzas where valor > 50 and valor < 100 ;

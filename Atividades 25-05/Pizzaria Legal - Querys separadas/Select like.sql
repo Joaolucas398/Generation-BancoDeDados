@@ -1,0 +1,1 @@
+select * from tb_pizzas where nome like "%m%";

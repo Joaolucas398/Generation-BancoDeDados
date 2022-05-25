@@ -1,0 +1,1 @@
+select * from tb_personagens where nome like "%c%"
