@@ -1,1 +1,0 @@
-select * from colaboradores where salario < 2000; 
